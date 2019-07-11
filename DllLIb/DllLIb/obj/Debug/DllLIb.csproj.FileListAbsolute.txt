@@ -1,0 +1,6 @@
+C:\Users\stalk\Desktop\vs\DllLIb\DllLIb\bin\Debug\DllLIb.dll
+C:\Users\stalk\Desktop\vs\DllLIb\DllLIb\bin\Debug\DllLIb.pdb
+C:\Users\stalk\Desktop\vs\DllLIb\DllLIb\obj\Debug\DllLIb.csprojAssemblyReference.cache
+C:\Users\stalk\Desktop\vs\DllLIb\DllLIb\obj\Debug\DllLIb.csproj.CoreCompileInputs.cache
+C:\Users\stalk\Desktop\vs\DllLIb\DllLIb\obj\Debug\DllLIb.dll
+C:\Users\stalk\Desktop\vs\DllLIb\DllLIb\obj\Debug\DllLIb.pdb
